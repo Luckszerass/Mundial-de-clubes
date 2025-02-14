@@ -1,9 +1,9 @@
-# Mundial-de-clubes
+# Mundial de clubes
 Exercício proposto na semana 2 de vizualização computacional do curso de Ciencia de Dados da Univesp
 
 
 *Contém auxilio de IA 
-Foi proposto um planejamento com base no modelo Munzner antes de fazer o DataViz, ultilizaei o Copilot para me auxiliar na organização e também na escolha de um gráfico:
+Foi proposto um planejamento com base no modelo Munzner antes de fazer o DataViz, utilizei o Copilot para me auxiliar na organização e também na escolha de um gráfico:
 
 Níveis do Modelo de Munzner e Tipologia de Tarefas
 Domínio:
