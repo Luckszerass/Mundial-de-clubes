@@ -3,7 +3,7 @@ Exercício proposto na semana 2 de vizualização computacional do curso de Cien
 
 
 *Contém auxilio de IA 
-Foi proposto um planejamento antes de fazer o DataViz, ultilizaei o Copilot para me auxiliar na organização e também na escolha de um gráfico:
+Foi proposto um planejamento com base no modelo Munzner antes de fazer o DataViz, ultilizaei o Copilot para me auxiliar na organização e também na escolha de um gráfico:
 
 Níveis do Modelo de Munzner e Tipologia de Tarefas
 Domínio:
@@ -27,3 +27,14 @@ Representação Visual: Gráfico de barras horizontais, onde cada barra represen
 Interação: Possibilidade de destacar ou filtrar clubes específicos, se desejado.
 
 Codificação: Cor e comprimento das barras para indicar a quantidade de títulos.
+
+
+*O Notebook teste.ipynb foi feito por IA, onde estava fazendo testes para saber qual seria o ideal antes de por a mão na massa e ultilizei de estudo para saber mais sobre a biblioteca  matplotlib
+
+# Ultilizei nesse projeto:
+
+- Jupyther Notebooks
+- Power BI
+- Microsoft Copilot.
+- Pandas
+- matplotlib
