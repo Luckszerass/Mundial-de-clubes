@@ -33,7 +33,7 @@ Codificação: Cor e comprimento das barras para indicar a quantidade de título
 
 # Ultilizei nesse projeto:
 
-- Jupyther Notebooks
+- Jupyter Notebooks
 - Power BI
 - Microsoft Copilot.
 - Pandas
